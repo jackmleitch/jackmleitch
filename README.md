@@ -25,4 +25,4 @@
 
 - 📫 How to reach me: jackmleitch@gmail.com
 
-:arrow_down: Check out my Strava Kudos Predictor and Essay Companion projects below! :arrow_down:
+:arrow_down: Check out my recent projects below: Strava Kudos Predictor, Essay Companion, and Strava Data Pipeline! :arrow_down:
